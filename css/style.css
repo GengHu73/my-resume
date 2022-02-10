@@ -2,6 +2,9 @@ body {
   background-color: #f5f7fa;
   font-family: "Montserrat", sans-serif;
 }
+/* * {
+  border: 1px solid rgb(0, 0, 0);
+} */
 li {
   font-size: 14px;
   line-height: 24px;
